@@ -9,6 +9,5 @@ public class MOMController {
 	@RequestMapping("/sugar")
 	public String Sugar()
 	{
-		return "/WEB-INF/views/welcome.jsp";
 	}
 }
